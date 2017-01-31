@@ -10,6 +10,7 @@ namespace RickeyWang
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("HELLO CHINA HELLO 2017 HELLO DADDY CAN U SEE ME ??");
         }
     }
 }
