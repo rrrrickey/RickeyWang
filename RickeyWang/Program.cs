@@ -12,8 +12,7 @@ namespace RickeyWang
         {
             Console.WriteLine("HELLO CHINA HELLO 2017 HELLO DADDY CAN U SEE ME ??");
             Console.WriteLine("Yes,I can see you!");
-            Console.WriteLine("Hello little brother Qiang!!");
-            Console.WriteLine("test!!");
+            Console.WriteLine("Hello little brother Qiang!!!");
             Console.ReadLine();
         }
     }
