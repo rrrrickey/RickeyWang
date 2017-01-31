@@ -11,6 +11,8 @@ namespace RickeyWang
         static void Main(string[] args)
         {
             Console.WriteLine("HELLO CHINA HELLO 2017 HELLO DADDY CAN U SEE ME ??");
+            Console.WriteLine("Yes,I can see you!");
+            Console.ReadLine();
         }
     }
 }
